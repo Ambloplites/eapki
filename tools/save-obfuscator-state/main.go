@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/YoshihikoAbe/eapki/obfuscate"
+	"github.com/Ambloplites/eapki/obfuscate"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/YoshihikoAbe/avsproperty"
+	"github.com/Ambloplites/avsproperty"
 )
 
 var (

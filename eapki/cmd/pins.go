@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/YoshihikoAbe/eapki/dongle"
+	"github.com/Ambloplites/eapki/dongle"
 	"github.com/spf13/cobra"
 )
 

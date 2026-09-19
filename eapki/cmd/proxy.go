@@ -3,8 +3,8 @@ package cmd
 import (
 	"log"
 
-	"github.com/YoshihikoAbe/eapki/dongle"
-	"github.com/YoshihikoAbe/eapki/proxy"
+	"github.com/Ambloplites/eapki/dongle"
+	"github.com/Ambloplites/eapki/proxy"
 	"github.com/spf13/cobra"
 )
 

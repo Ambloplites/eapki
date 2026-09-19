@@ -1,6 +1,6 @@
 package main
 
-import "github.com/YoshihikoAbe/eapki/eapki/cmd"
+import "github.com/Ambloplites/eapki/eapki/cmd"
 
 func main() {
 	cmd.Execute()

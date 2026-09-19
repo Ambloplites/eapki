@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/YoshihikoAbe/eapki/dongle"
-	"github.com/YoshihikoAbe/eapki/keyring"
+	"github.com/Ambloplites/eapki/dongle"
+	"github.com/Ambloplites/eapki/keyring"
 	"github.com/spf13/cobra"
 )
 

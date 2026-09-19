@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/YoshihikoAbe/eapki/obfuscate"
+	"github.com/Ambloplites/eapki/obfuscate"
 	"github.com/spf13/cobra"
 )
 

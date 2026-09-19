@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/YoshihikoAbe/avsproperty"
-	"github.com/YoshihikoAbe/eapki/drmfs"
+	"github.com/Ambloplites/avsproperty"
+	"github.com/Ambloplites/eapki/drmfs"
 	"github.com/spf13/cobra"
 )
 

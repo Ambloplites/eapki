@@ -7,9 +7,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/YoshihikoAbe/avsproperty"
-	"github.com/YoshihikoAbe/eapki/keyring"
-	"github.com/YoshihikoAbe/fsdump"
+	"github.com/Ambloplites/avsproperty"
+	"github.com/Ambloplites/eapki/keyring"
+	"github.com/Ambloplites/fsdump"
 )
 
 var (

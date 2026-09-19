@@ -7,7 +7,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/YoshihikoAbe/eapki/dongle"
+	"github.com/Ambloplites/eapki/dongle"
 )
 
 func Listen(address, remote string, account *dongle.Dongle) error {

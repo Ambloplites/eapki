@@ -6,10 +6,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/YoshihikoAbe/eapki/dongle"
-	"github.com/YoshihikoAbe/eapki/drmfs"
-	"github.com/YoshihikoAbe/eapki/keyring"
-	"github.com/YoshihikoAbe/fsdump"
+	"github.com/Ambloplites/eapki/dongle"
+	"github.com/Ambloplites/eapki/drmfs"
+	"github.com/Ambloplites/eapki/keyring"
+	"github.com/Ambloplites/fsdump"
 	"github.com/spf13/cobra"
 )
 

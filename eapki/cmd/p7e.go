@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/YoshihikoAbe/eapki/dongle"
-	"github.com/YoshihikoAbe/eapki/p7e"
+	"github.com/Ambloplites/eapki/dongle"
+	"github.com/Ambloplites/eapki/p7e"
 	"github.com/spf13/cobra"
 )
 

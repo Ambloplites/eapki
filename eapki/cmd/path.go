@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/YoshihikoAbe/eapki/drmfs"
+	"github.com/Ambloplites/eapki/drmfs"
 	"github.com/spf13/cobra"
 )
 
